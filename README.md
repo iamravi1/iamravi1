@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.ravitejapeetani.me/](https://www.ravitejapeetani.me/)
 
-- 📫 How to reach me **iamravitejapeetani1@gmail.com**
+- 📫 How to reach me **ravitejapeetani1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
