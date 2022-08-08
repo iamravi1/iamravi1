@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ravi</h1>
+<h1 align="center">Hi 👋, I'm Ravi</h1> 
+
+<div>
+<img  src="https://github-readme-stats.vercel.app/api?username=iamravi1&show_icons=true&theme=radical" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamravi1&layout=compact&theme=radical" />  
+</div>
 <h3 align="center">I'm a Machine learning enthusiast and a Full stack web developer. I love solving problems using Machine Learning and represent Data in a meaningful way. Also, I like to build web based applications.
 </h3>
 
