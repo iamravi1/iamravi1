@@ -73,4 +73,4 @@ Github       9 mins            █░░░░░░░░░░░░░░░�
  
  
  
-  ## ✨ To see my React projects, click <a href="https://github.com/iamravi1/React-Project.git">here</a> ✨</p>  
+  ## ✨ To see my projects, click <a href="https://github.com/iamravi1?tab=repositories">here</a> ✨</p>  
