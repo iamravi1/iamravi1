@@ -33,6 +33,10 @@
 <br>
  
 ### Certifications
+<a href="https://www.credly.com/badges/86094ba7-d7bb-4caf-a87f-fb407432eeb4/linked_in_profile">
+<img src="https://images.credly.com/size/340x340/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" width="100"/></a>
+<a href="https://www.credly.com/badges/a17b207d-c9fd-4d53-ada8-f4c7efdbfcc1/linked_in_profile">
+<img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="100"/></a>
 <a href="https://www.credly.com/badges/e6c08676-db7a-4678-928d-fea8fde57868/linked_in_profile">
 <img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100"/></a>
 <a href="https://badgr.com/public/assertions/hsYiPmUUTimTEdWD29ulnw"><img src="https://api.badgr.io/public/assertions/Myfgu1OFTsSNQPQdazL7xQ/image" width="100"/> </a>
